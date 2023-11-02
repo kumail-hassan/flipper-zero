@@ -1,0 +1,7 @@
+The ESP32 is equipped to transmit custom-crafted WiFi packets. Before initiating a deauthentication flood attack with the ESP32 Marauder, it's essential to compile a list of available access points and decide which ones to target. Please refer to the "Scan APs and Select APs" section for a comprehensive guide on creating a target list.
+
+Once you have a suitable target list, you can execute the deauth flood attack by simply choosing the corresponding menu option. The transmission rate of the packets will be visible on the screen, and you can terminate the attack by touching the screen.
+
+Please keep in mind that if you select a larger number of target networks, the effectiveness of the attack may be reduced. More networks require more time to send packets to each access point.
+
+The deauthentication packet is defined in WiFiScan.h as follows: [Include the packet definition here].
