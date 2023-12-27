@@ -14,12 +14,5 @@ This repository is a treasure trove of resources designed to empower Flipper Zer
 
 - **Toolbox Extravaganza**: Equip yourself with the right tools for the job! Our toolbox is filled with utilities, scripts, and resources to make your Flipper Zero experience smoother than ever.
 
-## Get Involved!
-
-This repository thrives on community engagement. We welcome contributions, feedback, and collaboration from Flipper Zero enthusiasts worldwide. Join us on this exciting journey, and let's shape the future of Flipper Zero together!
-
-## Connect with Us
-
-Stay in the loop with the latest Flipper Zero updates and community discussions.
 
 Happy flipping! 🚀
