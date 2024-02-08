@@ -14,5 +14,6 @@ This repository is a treasure trove of resources designed to empower Flipper Zer
 
 - **Toolbox Extravaganza**: Equip yourself with the right tools for the job! Our toolbox is filled with utilities, scripts, and resources to make your Flipper Zero experience smoother than ever.
 
+- **Development**: An intermediate level of C knowledge is recommended for comfortable programming. C, C++, and armv7m assembly languages are supported for Flipper applications.
 
 Happy flipping! 🚀
