@@ -1,4 +1,4 @@
-The ESP32 possesses the ability to transmit custom-crafted WiFi packets. In a Rick Roll Beacon assault, uniquely designed beacon frames are broadcasted to make the lyrics of "Never Gonna Give You Up" appear in the lists of networks on devices within the transmission's reach.
+//The ESP32 possesses the ability to transmit custom-crafted WiFi packets. In a Rick Roll Beacon assault, uniquely designed beacon frames are broadcasted to make the lyrics of "Never Gonna Give You Up" appear in the lists of networks on devices within the transmission's reach.
 
 // barebones packet
     uint8_t packet[128] = { 0x80, 0x00, 0x00, 0x00, //Frame Control, Duration
