@@ -1,3 +1,5 @@
+#replace smtp.example.com, example@example.com, and receiver@example.com with valid SMTP server and email credentials
+
 REM Open PowerShell as Administrator
 DELAY 1000
 GUI r
